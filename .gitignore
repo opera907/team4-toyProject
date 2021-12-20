@@ -1,0 +1,9 @@
+.cache/
+node_modules/
+dist/
+data/
+/More
+/SkypeMessage
+main-border.css
+package.json
+package-lock.json
